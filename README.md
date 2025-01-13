@@ -1,2 +1,2 @@
-# Simple Bookshelf App
+# Bookshelf App
 Practice Making Simple Web
